@@ -71,9 +71,9 @@ body {
 
 body.home-page {
   display: flex;
-  justify-content: center;  /* horizontal */
-  align-items: center;      /* vertical */
-  height: 100vh;            /* full screen height */
+  justify-content: center;  
+  align-items: center;      
+  height: 100vh;            
   margin: 0;
   padding-top: 30px;
   font-family: 'Helvetica Neue Bold', sans-serif;
@@ -81,7 +81,7 @@ body.home-page {
 }
 
 .center-wrapper {
-  text-align: center;       /* center text and image */
+  text-align: center;       
 }
 
 .site-header img {
